@@ -1,0 +1,21 @@
+{
+    "hello": "Hi there! How can I assist you?",
+    "how are you": "I'm just a chatbot, but thanks for asking!",
+    "bye": "Goodbye! Have a great day!",
+    "greeting": "Hello! How can I help you with your travel plans?",
+    "destination info": "Sure, I can provide you with information about various travel destinations. Where would you like to know about?",
+    "flight booking": "Great! I can assist you with flight bookings. Please provide me with your departure and arrival cities, as well as travel dates.",
+    "hotel booking": "Looking for a hotel? I can help you find and book accommodations. Please tell me your destination and check-in/check-out dates.",
+    "sightseeing": "Exploring attractions? Let me know your interests, and I'll suggest some popular sights at your destination.",
+    "weather": "Curious about the weather? Just give me the name of the city you're visiting, and I'll provide you with the forecast.",
+    "help": "If you need assistance with anything, feel free to ask!",
+    "goodbye": "Have a fantastic journey! If you have more questions, don't hesitate to return.",
+    "activities": "What kind of activities are you interested in? Adventure, relaxation, cultural experiences?",
+    "best time to visit": "The best time to visit depends on the destination. Could you please let me know where you're planning to go?",
+    "budget": "Understanding your budget will help me suggest suitable options. What's your approximate budget for the trip?",
+    "local cuisine": "Exploring local cuisine is a must! Let me know if you have any dietary preferences.",
+    "visa requirements": "Visa requirements vary by country. Which country are you planning to visit?",
+    "packing list": "Sure thing! I can help you with a packing list. What's the weather like at your destination?",
+    "currency exchange": "Currency exchange rates can affect your travel budget. What's your home currency and where are you traveling to?"
+}
+
